@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Panela",
+    "Price": "2",
+    "thumbnail": "https://mercaenlinea.nyc3.digitaloceanspaces.com/2021/07/panela.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Arroz",
+    "Price": "5",
+    "thumbnail": "https://www.comedera.com/wp-content/uploads/2019/11/arroz-blanco-cocido-500x375.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Helado",
+    "Price": "10",
+    "thumbnail": "https://www.recetasderechupete.com/wp-content/uploads/2019/07/shutterstock_1010248351-768x527.jpg"
+  }
+]
